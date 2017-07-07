@@ -37,6 +37,9 @@ Fast cost volume filtering: (https://www.ims.tuwien.ac.at/publications/tuw-21056
 Run demo.m  
 (This software is tested using Matlab 2013a with Windows 7 64bit environment)
 
+input: the complete light field image, where x,y changes in the angular domain firstly and the spatial domain secondly.
+
+
 ### Time log:
 
 2017.06.21 The package released.
