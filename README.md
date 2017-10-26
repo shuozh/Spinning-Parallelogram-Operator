@@ -1,7 +1,7 @@
 # Spinning-Parallelogram-Operator
 Robust Depth Estimation for Light Field via Spinning Parallelogram Operator
 
-CONTACT: Shuo Zhang  
+CONTACT: [Shuo Zhang](https://shuozh.github.io/)  
 (shuo.zhang@buaa.edu.cn)
 
 Any scientific work that makes use of our code should appropriately
