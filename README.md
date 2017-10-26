@@ -30,7 +30,7 @@ Computer Vision and Image Understanding, 2016, 145(C), 148-159
 ### Note:
 
 This package also includes part of following softwares  
-Fast cost volume filtering: (https://www.ims.tuwien.ac.at/publications/tuw-210567)
+[Fast cost volume filtering] (https://www.ims.tuwien.ac.at/publications/tuw-210567)
 
 ### How to use:
 
@@ -39,6 +39,7 @@ Run demo.m
 
 input: the complete light field image, where x,y changes in the angular domain firstly and the spatial domain secondly.
 
+Example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713) and [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://hci-lightfield.iwr.uni-heidelberg.de/) can be found at: https://drive.google.com/drive/folders/0B5JdDRk-RkPXTEJDdmhuRWUyVkU?usp=sharing 
 
 ### Time log:
 
