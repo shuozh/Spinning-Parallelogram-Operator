@@ -30,7 +30,7 @@ Computer Vision and Image Understanding, 2016, 145(C), 148-159
 ### Note:
 
 This package also includes part of following softwares  
-[Fast cost volume filtering] (https://www.ims.tuwien.ac.at/publications/tuw-210567)
+[Fast cost volume filtering](https://www.ims.tuwien.ac.at/publications/tuw-210567)
 
 ### How to use:
 
