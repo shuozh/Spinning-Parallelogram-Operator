@@ -38,6 +38,7 @@ Run demo.m
 (This software is tested using Matlab 2013a with Windows 7 64bit environment)
 
 input: Complete light field image, where x,y changes in the angular domain firstly and the spatial domain secondly.
+
        The example input image calculation for CVIA dataset is provided.
 
 Example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713) and [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://hci-lightfield.iwr.uni-heidelberg.de/) can be found at: https://drive.google.com/drive/folders/0B5JdDRk-RkPXTEJDdmhuRWUyVkU?usp=sharing 
@@ -45,4 +46,5 @@ Example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iw
 ### Time log:
 
 2017.06.21 The package released.
+
 2018.06.14 The InputImage.m is added.
