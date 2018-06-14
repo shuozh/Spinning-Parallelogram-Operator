@@ -39,7 +39,7 @@ Run demo.m
 
 input: Complete light field image, where x,y changes in the angular domain firstly and the spatial domain secondly.
 
-       The example input image calculation for CVIA dataset is provided.
+The example input image calculation for CVIA dataset is provided.
 
 Example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713) and [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://hci-lightfield.iwr.uni-heidelberg.de/) can be found at: https://drive.google.com/drive/folders/0B5JdDRk-RkPXTEJDdmhuRWUyVkU?usp=sharing 
 
