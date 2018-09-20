@@ -2,7 +2,7 @@
 Robust Depth Estimation for Light Field via Spinning Parallelogram Operator
 
 CONTACT: [Shuo Zhang](https://shuozh.github.io/)  
-(shuo.zhang@buaa.edu.cn)
+(zhangshuo@bjtu.edu.cn or shuo.zhang@buaa.edu.cn)
 
 Any scientific work that makes use of our code should appropriately
 mention this in the text and cite our CVIU 2016 paper. For commercial
@@ -39,9 +39,7 @@ Run demo.m
 
 input: Complete light field image, where x,y changes in the angular domain firstly and the spatial domain secondly.
 
-The example input image calculation for CVIA dataset is provided.
-
-Example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713) and [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://hci-lightfield.iwr.uni-heidelberg.de/) can be found at: https://drive.google.com/drive/folders/0B5JdDRk-RkPXTEJDdmhuRWUyVkU?usp=sharing 
+The image pre-processing calculation method for CVIA dataset input is provided. Other example input images from [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713) and [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://hci-lightfield.iwr.uni-heidelberg.de/) can be found at: https://drive.google.com/drive/folders/0B5JdDRk-RkPXTEJDdmhuRWUyVkU?usp=sharing 
 
 ### Time log:
 
